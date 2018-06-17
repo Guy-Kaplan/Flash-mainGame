@@ -3,6 +3,7 @@ My main game written in Flash and ActionScript. A 1-2 years project including 71
 
 ### Copyrights
 All Marvel names, characters, images, logos and movie names are copyrights of Marvel Entertainment, LLC ©®<br>
+All Rights Reserved.<br>
 The same is true for the following brands, names, terms, products, games, films, trademarks and companies/firms:<br>
 [companies/firms are mentiond sometimes inside ()]<br>
 Keen(id Software LLC), Pepsi(PepsiCo, Inc.), Jetpack Joyride(Halfbrick Studios Pty Ltd), Blink-182,  The Coca-Cola Company,<br>
@@ -15,6 +16,7 @@ Dori Media Group Ltd), Dan Hotels, SUDUCH, Wipeout(The American Broadcasting Com
 Burgeranch, the LEGO Group, Danone S.A., Strauss Group Ltd., Yedioth Ahronoth, Telma, James Richardson Group,<br>
 Wizards of the Coast LLC, Hasbro, Inc., Nickelodeon, Viacom Media Networks, Home Box Office, Inc., (HBO), HOT,<br>
 Netscape Communications Corporation, Those Awesome Guys, Unilever plc, Unilever N.V. ©® <br>
+All Rights Reserved<br>
 
 The rest of the code is GPL v3.0.<br>
 
