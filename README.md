@@ -27,3 +27,7 @@ Screenshots:
 ![screenshot1](/images/screenshot1.png)<br><br>
 ![screenshot2](/images/screenshot2.png)<br><br>
 ![screenshot3](/images/screenshot3.png)<br><br>
+![screenshot4](/images/screenshot4.png)<br><br>
+![screenshot5](/images/screenshot5.png)<br><br>
+![screenshot6](/images/screenshot6.png)<br><br>
+![screenshot7](/images/screenshot7.png)<br><br>
