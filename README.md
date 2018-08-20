@@ -20,7 +20,8 @@ The rest of the code is GPL v3.0.<br>
 
 ### Notes
 Open .swf files with Google Chrome<br>
-Open .fla files with Macromedia Flash Professional 8
+Open .fla files with Macromedia Flash Professional 8<br>
+For best resolution and game experience - download and run the .swf file
 
 ## Click [here](https://guy-kaplan.github.io/Flash-mainGame/) to play the game
 Screenshots:
