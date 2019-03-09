@@ -16,7 +16,7 @@ Dori Media Group Ltd), Dan Hotels, SUDUCH, Wipeout(The American Broadcasting Com
 Burgeranch, the LEGO Group, Danone S.A., Strauss Group Ltd., Yedioth Ahronoth, Telma, James Richardson Group,<br>
 Wizards of the Coast LLC, Hasbro, Inc., Nickelodeon, Viacom Media Networks, Home Box Office, Inc., (HBO), HOT,<br>
 Netscape Communications Corporation, Those Awesome Guys, Unilever plc, Unilever N.V., The Walt Disney Company,<br>
-KPMG International, Haviv, Wissotzky Tea, Technion – Israel Institute of Technology, Alpro,<br>
+KPMG International, HAVIV, Wissotzky Tea, Technion – Israel Institute of Technology, Alpro,<br>
 ©® All Rights Reserved<br>
 
 The rest of the code is GPL v3.0.<br>
