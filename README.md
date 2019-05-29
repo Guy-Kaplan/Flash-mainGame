@@ -1,5 +1,5 @@
 # Flash-mainGame
-My main game written in Flash and ActionScript. A 3 years project including 87 fun, varied, diverse and colorful levels.
+My main game written in Flash and ActionScript. A 3 years project including 98 fun, varied, diverse and colorful levels.
 
 ### Copyrights
 All Marvel names, characters, images, logos and movie names are copyrights of Marvel Entertainment, LLC ©®<br>
