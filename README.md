@@ -17,7 +17,7 @@ Burgeranch, the LEGO Group, Danone S.A., Strauss Group Ltd., Yedioth Ahronoth, T
 Wizards of the Coast LLC, Hasbro, Inc., Nickelodeon, Viacom Media Networks, Home Box Office, Inc., (HBO), HOT,<br>
 Netscape Communications Corporation, Those Awesome Guys, Unilever plc, Unilever N.V., The Walt Disney Company,<br>
 KPMG International, HAVIV, Wissotzky Tea, Technion – Israel Institute of Technology, Alpro,<br>
-DC Comics, Open University of Israel, <br>
+DC Comics, Open University of Israel, Guitar Hero(Activision Publishing, Inc.), Disney Magic Kingdoms(Disney/Pixar, Gameloft)<br>
 ©® All Rights Reserved<br>
 
 The rest of the code is GPL v3.0.<br>
