@@ -1,5 +1,5 @@
 # Flash-mainGame
-My main game written in Flash and ActionScript. A 4 years project including 111 fun, varied, diverse and colorful levels.
+My main game written in Flash and ActionScript. A 6 years project including 153 fun, varied, diverse and colorful levels.
 
 ### Copyrights
 All Marvel names, characters, images, logos and movie names are copyrights of Marvel Entertainment, LLC ©®<br>
@@ -19,17 +19,21 @@ Netscape Communications Corporation, Those Awesome Guys, Unilever plc, Unilever 
 KPMG International, HAVIV, Wissotzky Tea, Technion – Israel Institute of Technology, Alpro,<br>
 DC Comics, Open University of Israel, Guitar Hero(Activision Publishing, Inc.),<br>
 Disney Magic Kingdoms(Disney/Pixar, Gameloft), Wikipedia, Blizzard Entertainment INC.<br>
+The Lord of the Rings(New Line Cinema, The Saul Zaentz Company), Vikings(TM Productions, MGM Television), <br>
+Snoopy(E. W. Scripps Company), Android(Google, LLC), The Big Bang Theory(CBS, Warner Bros. Television Studios) <br>
+Yellow(Paz), Aroma, Care Bears(Those Characters From Cleveland), Funko, Burgerim <br>
 ©® All Rights Reserved<br>
 
 The rest of the code is GPL v3.0.<br>
 
 ### Notes
-Open .swf files with Google Chrome or Internet Explorer <br>
-Open .fla files with Macromedia Flash Professional 8 <br>
+~~Open .swf files with Google Chrome or Internet Explorer~~ <br> 
+Open .swf & .fla files with Macromedia Flash Professional 8 <br>
 For best resolution and game experience - download and run the .swf file
 
-## Click [here](https://guy-kaplan.github.io/Flash-mainGame/) to play the game
-Screenshots:
+~~## Click [here](https://guy-kaplan.github.io/Flash-mainGame/) to play the game~~ <br>
+
+### Screenshots
 ![screenshot1](/images/screenshot1.png)<br><br>
 ![screenshot2](/images/screenshot2.png)<br><br>
 ![screenshot3](/images/screenshot3.png)<br><br>
