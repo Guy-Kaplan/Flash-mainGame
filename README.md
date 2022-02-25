@@ -31,7 +31,7 @@ The rest of the code is GPL v3.0.<br>
 Open .swf & .fla files with Macromedia Flash Professional 8 <br>
 For best resolution and game experience - download and run the .swf file
 
-~~## Click [here](https://guy-kaplan.github.io/Flash-mainGame/) to play the game~~ <br>
+~~Click [here](https://guy-kaplan.github.io/Flash-mainGame/) to play the game~~ <br>
 
 ### Screenshots
 ![screenshot1](/images/screenshot1.png)<br><br>
